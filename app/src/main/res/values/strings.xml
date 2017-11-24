@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Bio-Quiz</string>
+    <string name="name_hint">Your Name</string>
+    <string name="question_no_1">Question no. 1</string>
+    <string name="q1_text">The use or alteration of cells or biochemicals to provide a useful product describes:</string>
+    <string name="q1_a_answer">A) Transgenic technology.</string>
+    <string name="q1_b_answer">B) Biotechnology.</string>
+    <string name="q1_c_answer">C) Gene targeting.</string>
+    <string name="q1_d_answer">D) Recombinant DNA technology.</string>
+    <string name="question_no_2">Question no. 2</string>
+    <string name="q2_text">How can we ensure that all of the bacteria growing on medium contain the introduced recombinant DNA?</string>
+    <string name="q2_a_answer">A) Incubate the bacteria at a high temperature.</string>
+    <string name="q2_b_answer">B) Incubate the bacteria for a long period of time.</string>
+    <string name="q2_c_answer">C) Incubate the bacteria for a short period of time.</string>
+    <string name="q2_d_answer">D) Incubate the bacteria with the same antibiotic for which the recombinant DNA expresses a resistance gene.</string>
+    <string name="question_no_3">Question no. 3</string>
+    <string name="q3_text">The process of copying a gene\'s DNA sequence into a sequence of RNA is called</string>
+    <string name="q3_hint">Your answer here</string>
+    <string name="question_no_4">Question no. 4</string>
+    <string name="q4_text">RNA contains which bases?</string>
+    <string name="q4_a_answer">A) adenine, thymine, guanine, cytosine, uracil.</string>
+    <string name="q4_b_answer">B) thymine, guanine, cytosine, uracil.</string>
+    <string name="q4_c_answer">C) adenine, thymine, guanine, cytosine.</string>
+    <string name="q4_d_answer">D) adenine, guanine, cytosine, uracil.</string>
+    <string name="question_no_5">Question no. 5</string>
+    <string name="q5_text">Which statements are true?</string>
+    <string name="q5_a_answer">A) Genetic engineering manipulates gene products at the level of the DNA.</string>
+    <string name="q5_b_answer">B) A knockout mouse is so named because it contains aggression genes.</string>
+    <string name="q5_c_answer">C) The first drug produced using recombinant DNA technology was penicillin.</string>
+    <string name="q5_d_answer">D) The first organism to have its genome sequenced was Haemophilus influenzae.</string>
+    <string name="question_no_6">Question no. 6</string>
+    <string name="q6_text">Different genes evolve at different rates. True or false?</string>
+    <string name="q6_a_answer">A) True.</string>
+    <string name="q6_b_answer">B) False.</string>
+    <string name="submit">Submit</string>
+    <string name="answers">Good luck!</string>
+</resources>
